@@ -62,18 +62,7 @@ draw insights.
 
 ---
 
-## ✅ 7. Analytical Thinking & Problem-Solving
-- Hypothesis formulation
-- Root-cause analysis (5 Whys, Pareto basics)
-- Experimentation fundamentals (A/B testing overview)
-- Common pitfalls:
-  - Bias
-  - Correlation ≠ Causation
-  - Overfitting conclusions
-
----
-
-## ✅ 8. Data Visualisation & Insight Communication
+## ✅ 7. Data Visualisation & Insight Communication
 - Chart selection best practices
 - Storytelling with data
 - Formatting dashboards for clarity (no clutter)
@@ -82,43 +71,15 @@ draw insights.
 
 ---
 
-## ✅ 9. Documentation & Reproducibility
+## ✅ 8. Documentation & Reproducibility
 - Structuring notebooks, dashboards, and reports
 - Version control basics
 - Communicating assumptions, limitations, and data decisions
 
 ---
 
-## ✅ 10. Professional Development for Data Analysts
-- Portfolio development
-- Collaboration in analytics (Git basics, feedback loops)
-- Presenting insights with confidence
-
----
-
 ### 🎯 What You Will Achieve
-✅ Analytics fundamentals without dependence on specific tools  
+✅ Analytics fundamentals
 ✅ Ability to translate business questions into insights  
-✅ Strong data cleaning, EDA, and storytelling skills  
-✅ Preparation for Excel, SQL, BI tools, and Python later  
-
----
-
-### 🔗 Optional Add-Ons (Future Modules)
-- SQL for Analysts
-- Excel for Business Analytics
-- Power BI for Dashboards & Reporting
-- Python for Data Analysis
-
----
-
-> **This bootcamp prepares you to think like an analyst — tools are only the next step.**
-
----
-
-If you want, I can help you:
-✅ Add hands-on exercises per module  
-✅ Include portfolio-ready mini projects  
-✅ Create a better-looking README layout with emojis, badges, and table of contents  
-
-Would you like me to generate a **Table of Contents with links** for easy navigation on GitHub?
+✅ Data cleaning, EDA, and storytelling skills  
+✅ Preparation for Excel, SQL, BI tools, and Python
