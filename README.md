@@ -6,6 +6,8 @@
 ✅ Data cleaning, EDA, and storytelling skills  
 ✅ Preparation for Excel, SQL, BI tools, and Python
 
+---
+
 ## 1. Foundations of Data Analysis
 - **Data Analysis Definition**: Data analysis is a process of modeling, analyzing, and interpreting data to
 draw insights.
