@@ -9,7 +9,7 @@
 ---
 
 ## 1. Foundations of Data Analysis
-- **Data Analysis Definition**: Data analysis is a process of modeling, analyzing, and interpreting data to
+- **Data Analysis Definition**: Data analysis is a process of modelling, analyzing, and interpreting data to
 draw insights.
 - **Data lifecycle**: Use case > Data collection > Storage > Processing > Analysis > Visualization > Communication
 - **Types of analytics**: Descriptive, Diagnostic, Predictive, Prescriptive
@@ -49,16 +49,15 @@ draw insights.
 - Star schema: fact vs dimension tables
 - Granularity
 - Slowly changing dimensions (basic awareness)
-- Benefits of data modelling (performance, accuracy, reusability)
+- Benefits of data modelling (performance, reusability)
 
-## ✅ 7. Data Visualisation & Insight Communication
+## 7. Data Visualisation & Insight Communication
 - Chart selection best practices
 - Storytelling with data
-- Formatting dashboards for clarity (no clutter)
-- Dashboards vs Reports vs One-pager insights
-- Tailoring insights for different audiences
+- Dashboards & Reports
 
-## ✅ 8. Documentation & Reproducibility
-- Structuring notebooks, dashboards, and reports
+## 8. Documentation & Reproducibility
+- Meta data
+- Code / Queries / Workflows documentation
 - Version control basics
 - Communicating assumptions, limitations, and data decisions
