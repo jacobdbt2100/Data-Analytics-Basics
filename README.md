@@ -15,7 +15,7 @@ draw insights.
 - **Types of analytics**: Descriptive, Diagnostic, Predictive, Prescriptive
 - **Data roles**: Data Analyst, BI Analyst, Data Scientist, Analytics Engineer, Data Engineer
 
-## 2. Data & Data Sources
+## 2. Data Sources
 - Databases, spreadsheets, APIs, streaming data
 - Structured, Semi-structured, Unstructured data
 - Data formats: CSV, JSON, Parquet
@@ -23,15 +23,13 @@ draw insights.
   - Primary / Foreign keys
   - 1–1, 1–Many, Many–Many
 
-## ✅ 3. Data Preparation (Cleaning & Wrangling)
+## 3. Data Preparation (Cleaning & Transformation)
 - Handling missing values
 - Handling duplicates
 - Data types & conversions
 - Outlier basics
-- Normalisation vs Standardisation
+- Normalization vs Standardization
 - Text cleanup (trim spaces, case formatting, remove symbols)
-- Data integrity checks
-- Documenting cleaning decisions
 
 ## ✅ 4. Exploratory Data Analysis (EDA)
 - Descriptive statistics (mean, median, mode, std, percentiles)
