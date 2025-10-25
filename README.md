@@ -31,24 +31,21 @@ draw insights.
 - Normalization vs Standardization
 - Text cleanup (trim spaces, case formatting, remove symbols)
 
-## ✅ 4. Exploratory Data Analysis (EDA)
+## 4. Exploratory Data Analysis (EDA)
 - Descriptive statistics (mean, median, mode, std, percentiles)
 - Distributions & variability
-- Correlations & relationships
-- Segmentation and grouping
-- Asking structured analytical questions
+- Correlations
+- Segmentation
 
-## ✅ 5. Business Understanding & Metrics
-- Aligning analysis with business goals
-- KPIs: input vs output metrics
-- Essential business metrics:
+## 5. Business Understanding & Metrics
+- KPIs
+- Essential business metrics (marketing):
   - Conversion rate
   - Retention rate
   - Growth metrics
   - Cohorts & segmentation
-- Measuring performance with context & trade-offs
-
-## ✅ 6. Data Modelling Concepts (Analyst-Level)
+ 
+## 6. Data Modelling Concepts
 - Star schema: fact vs dimension tables
 - Granularity
 - Slowly changing dimensions (basic awareness)
