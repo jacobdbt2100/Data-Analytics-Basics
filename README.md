@@ -1,10 +1,10 @@
 # Data Analytics Basics 📊
 
 ### Learning Objectives:
-✅ Analytics fundamentals
-✅ Ability to translate business questions into insights  
-✅ Data cleaning, EDA, and storytelling skills  
-✅ Preparation for Excel, SQL, BI tools, and Python
+- Analytics fundamentals
+- Ability to translate business questions into insights
+- Data cleaning, EDA, and storytelling skills
+- Preparation for Excel, SQL, BI tools, and Python
 
 ---
 
