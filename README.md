@@ -1,4 +1,4 @@
-# Data-Analytics-Basics 📊
+# Data Analytics Basics 📊
 
 ---
 
