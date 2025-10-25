@@ -7,14 +7,14 @@
 draw insights.
 - **Data lifecycle**: Use case > Data collection > Storage > Processing > Analysis > Visualization > Communication
 - **Types of analytics**: Descriptive, Diagnostic, Predictive, Prescriptive
-- **Data roles**: Data Analyst vs BI Analyst vs Data Scientist vs Analytics Engineer vs Data Engineer
+- **Data roles**: Data Analyst, BI Analyst, Data Scientist, Analytics Engineer, Data Engineer
 
 ---
 
 ## ✅ 2. Data & Data Sources
-- Structured vs Semi-structured vs Unstructured data
 - Databases, spreadsheets, APIs, streaming data
-- Common data formats: CSV, JSON, Parquet
+- Structured, Semi-structured, Unstructured data
+- Data formats: CSV, JSON, Parquet
 - Keys & relationships:
   - Primary / Foreign keys
   - 1–1, 1–Many, Many–Many
