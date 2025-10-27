@@ -107,15 +107,10 @@ An unsupervised machine learning technique, `K-Means Clustering`, groups custome
 
 #### `Data Analysis vs Data Analytics:`
 
-| Aspect                | **Data Analysis**                                                                                      | **Data Analytics**                                                                                                                    |
+| Aspect                | **Data Analysis**                                                                                      | **Data Analytics**                                                                       |
 | --------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
 | **Definition**        | The process of modelling, analyzing, and interpreting data to extract insights. | A broader discipline that includes data collection, data engineering, data science, data analysis, and insight delivery to support decision-making. |
 | **Scope**             | Narrower — focused on answering specific questions.                         | Broader — covers full data lifecycle: Data collection > Storage > Processing > Analysis > Visualization > Communication.                                   |
-| **Primary Goal**      | Understand patterns and derive insights.                                                               | Enable actionable, repeatable decision-making based on data.                                                                          |
-| **Methods Used**      | Exploratory analysis, descriptive and diagnostic analytics.                                            | All analytics methods: descriptive, diagnostic, predictive, prescriptive.                                                             |
-| **Tools Focus**       | Excel, SQL, visualisations, basic statistics.                                                          | BI tools (Power BI, Tableau), data pipelines (dbt), cloud platforms, automation, machine learning (sometimes).                        |
-| **Deliverables**      | Reports, dashboards, insights, recommendations.                                                        | Data products, scalable reporting systems, automated workflows.                                                                       |
-| **Role Example**      | Data Analyst                                                                                           | Analytics Engineer, BI Analyst, Data Analyst, Data Scientist (partly).                                                                |
 
 Summarily, **`Data Analysis`** is a `task` — extracting insights from data. **`Data Analytics`** is a field — encompassing the processes that make insights possible.
 
