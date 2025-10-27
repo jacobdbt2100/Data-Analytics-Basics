@@ -48,10 +48,10 @@ extract insights.
 - Distributions & variability
 - Correlations
 - Segmentation
-  - Demographic (age, gender, income level, education, occupation, marital status)
-  - Geographic (country, state, city, climate zones, urban vs rural, population density)
-  - Psychographic (values & beliefs, interests/attitudes)
-  - Behavioural (recency, frequency, monetary-RFM)
+  - `Demographic` (age, gender, income level, education, occupation, marital status)
+  - `Geographic` (country, state, city, climate zones, urban vs rural, population density)
+  - `Psychographic` (values & beliefs, interests/attitudes)
+  - `Behavioural` (recency, frequency, monetary-RFM)
 
 An unsupervised machine learning technique, `K-Means Clustering`, groups customers based on similarity in behaviour (advanced RFM analysis)
 - Market basket analysis
@@ -60,10 +60,10 @@ An unsupervised machine learning technique, `K-Means Clustering`, groups custome
 ## 5. Business Understanding & Metrics
 - KPIs
 - Essential business metrics (marketing):
-  - Conversion rate
+  - Engagement rate: measure/compare success of creating awareness about a product or service
+  - Conversion rate: measure/compare sucess of users' completion of the desired business action (purchase, subscription)
+  - Return on Ad Spend (ROAS)
   - Retention rate
-  - Growth metrics
-  - Cohorts & segmentation
  
 ## 6. Data Modelling Concepts
 - Star schema: fact vs dimension tables
