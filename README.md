@@ -97,10 +97,10 @@ An unsupervised machine learning technique, `K-Means Clustering`, groups custome
 - Storytelling with data
 - Dashboards & Reports
 
-## 8. Documentation & Reproducibility
+## 8. Documentation
 - Meta data
-- Code / Queries / Workflows documentation
-- Version control basics
+- Code, Queries (with comments)
+- Version control basics (git)
 - Communicating assumptions, limitations, and data decisions
 
 ### Miscellaneous
