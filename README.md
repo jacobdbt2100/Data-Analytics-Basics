@@ -1,13 +1,5 @@
 # Data Analytics Basics 📊
 
-### Learning Objectives:
-- Analytics fundamentals
-- Ability to translate business questions into insights
-- Data cleaning, EDA, and storytelling skills
-- Preparation for Excel, SQL, BI tools, and Python
-
----
-
 ## 1. Foundations of Data Analysis
 - **Data Analysis Definition**: Data analysis is a process of modelling, analyzing, and interpreting data to
 extract insights.
