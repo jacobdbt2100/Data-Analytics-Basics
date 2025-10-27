@@ -79,27 +79,27 @@ extract insights.
 #### **`Data Normalization:`**
 The process of structuring data to reduce redundancy and improve integrity—typically by organizing it into related tables and enforcing rules (normal forms) so that each data point is stored once and updated consistently.
 
-### **`Data Warehouse:`**
+#### **`Data Warehouse:`**
 A large centralized repository of data used for reporting and analysis, combining and organizing data from different sources for efficient querying and reporting.
 
-### **`Role of a Data Analyst:`**
+#### **`Role of a Data Analyst:`**
 Collects, processes, and analyzes data to identify trends, patterns and make informed decisions.
 
-**`Handling Large Datasets:`**
+#### **`Handling Large Datasets:`**
 Requires the use of efficient data storage and processing techniques such as;
 - SQL databases
 - Parallel computing: running multiple computations at the same time across multiple processors, rather than sequentially on a single one.
 - Cloud-based solutions
 - Code optimization (performance tuning)
 
-**`Latest Trends and Developemts Updates:`**
+#### **`Latest Trends and Developemts Updates:`**
 - Blogs
 - Podcasts
 - Online courses
 - Conferences
 - Industry publications
 
-**`Data Privacy and Security Concerns:`**
+#### **`Data Privacy and Security Concerns:`**
 - Data protection regulations
 - Anonymizing sensitive data
 - Secure data storage and transfer methods
