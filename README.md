@@ -20,7 +20,8 @@ draw insights.
 - Structured, Semi-structured, Unstructured data
 - Data formats: CSV, JSON, Parquet
 - Keys & relationships:
-  - Primary / Foreign keys
+  - **Primary**: a unique identifier for each record in a table.
+  - **Foreign keys**: a field in a table that refers to the primary key of another table, establishing a relationship between the two tables.
   - 1–1, 1–Many, Many–Many
 
 ## 3. Data Preparation (Cleaning & Transformation)
