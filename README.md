@@ -66,8 +66,14 @@ An unsupervised machine learning technique, `K-Means Clustering`, groups custome
   - Retention rate
  
 ## 6. Data Modelling Concepts
-- Star schema: fact vs dimension tables
-- Granularity: level of detail stored in a dataset or table. `Higher granularity` means more detailed data (e.g., individual transactions). `Lower granularity` means summarized or aggregated data (e.g., monthly sales totals). Choosing the right granularity affects storage cost, query performance, and analytical usefulness.
+- `Schema:`a structured plan of how data is organized in a database. It defines:
+  - `Tables (entities):` `Fact` vs `Dimension` tables
+  - `Columns (attributes)`
+  - `Data types:` integer, string, date, etc.
+  - `Relationships:` between tables (primary keys, foreign keys)
+  - `Constraints:` rules like NOT NULL, UNIQUE, etc.
+
+- `Granularity:` level of detail stored in a dataset or table. `Higher granularity` means more detailed data (e.g., individual transactions). `Lower granularity` means summarized or aggregated data (e.g., monthly sales totals). Choosing the right granularity affects storage cost, query performance, and analytical usefulness.
   > `Example:`
     - Suppose you have a `Sales table`
       - `High granularity:` One row per item sold (e.g., “1 bottle of Coke sold at 10:05 AM”).
@@ -76,11 +82,11 @@ An unsupervised machine learning technique, `K-Means Clustering`, groups custome
         - Analyse peak shopping hours > `High granularity`
         - Show monthly performance > `Low granularity`
   
-- Slowly Changing Dimensions (SCD): describes attributes in a dimension table that change over time, but not frequently. `SCD techniques` ensure historical data remains accurate when those attributes change. There are different types (e.g., `Type 1:` overwrite old data; `Type 2:` add a new record to preserve history). SCDs are key to maintaining correct historical reporting and trend analysis.
+- `Slowly Changing Dimensions (SCD):` describes attributes in a dimension table that change over time, but not frequently. `SCD techniques` ensure historical data remains accurate when those attributes change. There are different types (e.g., `Type 1:` overwrite old data; `Type 2:` add a new record to preserve history). SCDs are key to maintaining correct historical reporting and trend analysis.
   > `Example:`
         - A customer changes their `address` or `marital status`
         - Change in `cost` or `sales price`
-- Benefits of data modelling:
+- `Benefits of data modelling:`
   - `Data Quality:` ensures clean, structured, and consistent data
   - `Performance:` improves query speed
   - `Accuracy:` reduces duplication and errors
