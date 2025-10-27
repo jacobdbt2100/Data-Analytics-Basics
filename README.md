@@ -76,10 +76,10 @@ extract insights.
 | **Project Stage** | Typically after data preparation                                    | Early phase of data pipeline (before cleansing/transformation)  |
 | **Key Benefit**   | Drives strategic and operational decisions                          | Reduces errors and improves reliability of downstream analytics |
 
-## **`Data Normalization:`**
+### **`Data Normalization:`**
 The process of structuring data to reduce redundancy and improve integrity—typically by organizing it into related tables and enforcing rules (normal forms) so that each data point is stored once and updated consistently.
 
-**`Data Warehouse:`**
+### **`Data Warehouse:`**
 A large centralized repository of data used for reporting and analysis, combining and organizing data from different sources for efficient querying and reporting.
 
 **`Role of a Data Analyst:`**
