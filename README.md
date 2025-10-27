@@ -67,7 +67,15 @@ An unsupervised machine learning technique, `K-Means Clustering`, groups custome
  
 ## 6. Data Modelling Concepts
 - Star schema: fact vs dimension tables
-- Granularity
+- Granularity: level of detail stored in a dataset or table. `Higher granularity` means more detailed data (e.g., individual transactions). `Lower granularity` means summarized or aggregated data (e.g., monthly sales totals). Choosing the right granularity affects storage cost, query performance, and analytical usefulness.
+  > `Example:`
+    - Suppose you have a Sales table.
+      - `High granularity:` One row per item sold (e.g., “1 bottle of Coke sold at 10:05 AM”).
+      - `Low granularity:` One row per day summarising all items sold (e.g., “500 items sold on Monday”).
+    - Choosing granularity depends on the analysis:
+        - Analyse peak shopping hours > ```High granularity`
+        - Show monthly performance > `Low granularity`
+  
 - Slowly changing dimensions (basic awareness)
 - Benefits of data modelling (performance, reusability)
 
