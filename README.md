@@ -50,6 +50,9 @@ extract insights.
 - Segmentation
   - Demographic (age, gender, income level, education, occupation, marital status)
   - Geographic (country, state, city, climate zones, urban vs rural, population density)
+  - Psychographic (values & beliefs, interests/attitudes)
+  - Behavioural (recency, frequency, monetary-RFM)
+An unsupervised machine learning technique, `K-Means Clustering`, groups customers based on similarity in behaviour (advanced RFM analysis)
 - Market basket analysis
 - Cohort analysis
 
