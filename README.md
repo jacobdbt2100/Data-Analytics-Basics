@@ -1,7 +1,7 @@
 # Data Analytics Overview 📊
 
 ## 1. Foundations of Data Analysis
-- **Data Analysis Definition**: Data analysis is a process of modelling, analyzing, and interpreting data to
+- **Definition**: Data analysis is a process of modelling, analyzing, and interpreting data to
 extract insights.
 - **Data roles**: Data Analyst, BI Analyst, Analytics Engineer, Data Engineer, Data Scientist, Machine Learning Engineer, etc. A `Data Analyst` collects, processes, and analyzes data to identify trends, patterns and make informed decisions.
   
