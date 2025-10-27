@@ -65,7 +65,7 @@ extract insights.
 
 ### Miscellaneous
 
-#### Data Mining vs Data Profiling
+> **Data Mining vs Data Profiling**
 
 | Aspect            | **Data Mining**                                                     | **Data Profiling**                                              |
 | ----------------- | ------------------------------------------------------------------- | --------------------------------------------------------------- |
@@ -76,5 +76,5 @@ extract insights.
 | **Project Stage** | Typically after data preparation                                    | Early phase of data pipeline (before cleansing/transformation)  |
 | **Key Benefit**   | Drives strategic and operational decisions                          | Reduces errors and improves reliability of downstream analytics |
 
-#### Data Normalization: the process of structuring data to reduce redundancy and improve integrity—typically by organizing it into related tables and enforcing rules (normal forms) so that each data point is stored once and updated consistently.
+> **Data Normalization**: the process of structuring data to reduce redundancy and improve integrity—typically by organizing it into related tables and enforcing rules (normal forms) so that each data point is stored once and updated consistently.
 
