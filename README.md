@@ -26,7 +26,7 @@ extract insights.
 ## 2. Data Sources
 - Databases, spreadsheets, APIs, streaming data, SaaS applications (Salesforce, HubSpot, Shopify, etc.)
 - Structured, Semi-structured, Unstructured data
-- Data formats: CSV, JSON, Parquet
+- Data file formats: CSV, xlsx, JSON, Parquet
 - Keys & relationships:
   - **Primary**: a unique identifier for each record in a table.
   - **Foreign keys**: a field in a table that refers to the primary key of another table, establishing a relationship between the two tables.
