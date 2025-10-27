@@ -42,6 +42,7 @@ extract insights.
 - Special Characters
 - Outliers
 - Normalization vs Standardization
+
 | Feature      | **Normalization**                      | **Standardization**     |
 | ------------ | -------------------------------------- | ----------------------- |
 | Purpose      | Scale to a fixed range                 | Scale to mean 0, std 1  |
