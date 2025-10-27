@@ -61,3 +61,14 @@ draw insights.
 - Code / Queries / Workflows documentation
 - Version control basics
 - Communicating assumptions, limitations, and data decisions
+
+### Miscellaneous
+> - Data Mining vs Data Profiling
+| Aspect            | **Data Mining**                                                     | **Data Profiling**                                              |
+| ----------------- | ------------------------------------------------------------------- | --------------------------------------------------------------- |
+| **Purpose**       | Extract hidden patterns, correlations, and insights from data       | Understand data quality, structure, and anomalies               |
+| **Focus**         | Analytics, prediction, and decision support                         | Assessing data fitness for use before analytics                 |
+| **Techniques**    | Machine learning, statistical modelling, clustering, classification | Completeness checks, data type validation, frequency analysis   |
+| **Output**        | Trends, predictive models, actionable insights                      | Data quality metrics, metadata summaries                        |
+| **Project Stage** | Typically after data preparation                                    | Early phase of data pipeline (before cleansing/transformation)  |
+| **Key Benefit**   | Drives strategic and operational decisions                          | Reduces errors and improves reliability of downstream analytics |
