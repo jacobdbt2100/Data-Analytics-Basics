@@ -3,36 +3,25 @@
 ## 1. Foundations of Data Analysis
 - **Data Analysis Definition**: Data analysis is a process of modelling, analyzing, and interpreting data to
 extract insights.
+- **Data roles**: Data Analyst, BI Analyst, Analytics Engineer, Data Engineer, Data Scientist, Machine Learning Engineer, etc. A `Data Analyst` collects, processes, and analyzes data to identify trends, patterns and make informed decisions.
+  
 - **Data lifecycle**: Use case > Data collection > Storage > Processing > Analysis > Visualization > Communication
 - **Types of analytics**:
 
   - `Descriptive Analysis:` What happened?
 > `Example:` A skincare brand sees 15,000 people clicked their Instagram ad last week, but only 500 purchased.
   
-  - `Diagnostic Analysis` – Why did it happen?
+  - `Diagnostic Analysis:` Why did it happen?
 > `Example:` Analysis shows that shipping costs made many customers abandon their carts at checkout.
-  - Predictive Analysis – What will likely happen?
-`Example:` If nothing changes, the model forecasts cart drop-offs will keep increasing as shipping prices rise.
-  - Prescriptive Analysis – What should we do?
-`Example:` The system recommends offering free shipping above $40 to increase checkout conversions.
-  - Exploratory Analysis – What hidden opportunities exist?
-`Example:` Data reveals customers who buy face cleansers often buy serums within a week, suggesting a personalised follow-up email can boost revenue.
 
+  - `Predictive Analysis:` What will likely happen?
+> `Example:` If nothing changes, the model forecasts cart drop-offs will keep increasing as shipping prices rise.
 
+  - `Prescriptive Analysis:` What should we do?
+> `Example:` The system recommends offering free shipping above $40 to increase checkout conversions.
 
-
-
-
-
-
-
-
-
-
-
-
-
-- **Data roles**: Data Analyst, BI Analyst, Data Scientist, Analytics Engineer, Data Engineer
+  - `Exploratory Analysis:` What hidden opportunities exist?
+> `Example:` Data reveals customers who buy face cleansers often buy serums within a week, suggesting a personalised follow-up email can boost revenue.
 
 ## 2. Data Sources
 - Databases, spreadsheets, APIs, streaming data
@@ -100,9 +89,6 @@ The process of structuring data to reduce redundancy and improve integrity—typ
 
 #### `Data Warehouse:`
 A large centralized repository of data used for reporting and analysis, combining and organizing data from different sources for efficient querying and reporting.
-
-#### `Role of a Data Analyst:`
-Collects, processes, and analyzes data to identify trends, patterns and make informed decisions.
 
 #### `Handling Large Datasets:`
 Requires the use of efficient data storage and processing techniques such as;
