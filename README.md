@@ -10,7 +10,7 @@
 
 ## 1. Foundations of Data Analysis
 - **Data Analysis Definition**: Data analysis is a process of modelling, analyzing, and interpreting data to
-draw insights.
+extract insights.
 - **Data lifecycle**: Use case > Data collection > Storage > Processing > Analysis > Visualization > Communication
 - **Types of analytics**: Descriptive, Diagnostic, Predictive, Prescriptive
 - **Data roles**: Data Analyst, BI Analyst, Data Scientist, Analytics Engineer, Data Engineer
