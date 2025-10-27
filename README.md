@@ -69,15 +69,22 @@ An unsupervised machine learning technique, `K-Means Clustering`, groups custome
 - Star schema: fact vs dimension tables
 - Granularity: level of detail stored in a dataset or table. `Higher granularity` means more detailed data (e.g., individual transactions). `Lower granularity` means summarized or aggregated data (e.g., monthly sales totals). Choosing the right granularity affects storage cost, query performance, and analytical usefulness.
   > `Example:`
-    - Suppose you have a Sales table.
+    - Suppose you have a `Sales table`
       - `High granularity:` One row per item sold (e.g., “1 bottle of Coke sold at 10:05 AM”).
-      - `Low granularity:` One row per day summarising all items sold (e.g., “500 items sold on Monday”).
+      - `Low granularity:` One row per day summarizing all items sold (e.g., “500 items sold on Monday”).
     - Choosing granularity depends on the analysis:
-        - Analyse peak shopping hours > ```High granularity`
+        - Analyse peak shopping hours > `High granularity`
         - Show monthly performance > `Low granularity`
   
-- Slowly changing dimensions (basic awareness)
-- Benefits of data modelling (performance, reusability)
+- Slowly Changing Dimensions (SCD): describes attributes in a dimension table that change over time, but not frequently. `SCD techniques` ensure historical data remains accurate when those attributes change. There are different types (e.g., `Type 1:` overwrite old data; `Type 2:` add a new record to preserve history). SCDs are key to maintaining correct historical reporting and trend analysis.
+  > `Example:`
+        - A customer changes their `address` or `marital status`
+        - Change in `cost` or `sales price`
+- Benefits of data modelling:
+  - `Data Quality:` ensures clean, structured, and consistent data
+  - `Performance:` improves query speed
+  - `Accuracy:` reduces duplication and errors
+  - `Reusability:` reuse of data structures, definitions, and logic across multiple reports and systems
 
 ## 7. Data Visualisation & Insight Communication
 - Chart selection best practices
