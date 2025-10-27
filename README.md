@@ -64,6 +64,7 @@ draw insights.
 
 ### Miscellaneous
 > - Data Mining vs Data Profiling
+
 | Aspect            | **Data Mining**                                                     | **Data Profiling**                                              |
 | ----------------- | ------------------------------------------------------------------- | --------------------------------------------------------------- |
 | **Purpose**       | Extract hidden patterns, correlations, and insights from data       | Understand data quality, structure, and anomalies               |
