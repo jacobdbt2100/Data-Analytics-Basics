@@ -105,13 +105,21 @@ An unsupervised machine learning technique, `K-Means Clustering`, groups custome
 
 ### Miscellaneous
 
-**`Data Mining vs Data Profiling:`**
+#### `Data Analysis vs Data Analytics:`
 
-Data Analysis is a task — extracting insights from data.
+| Aspect                | **Data Analysis**                                                                                      | **Data Analytics**                                                                                                                    |
+| --------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Definition**        | The process of inspecting, cleaning, transforming, and interpreting data to extract specific insights. | A broader discipline that includes data collection, data engineering, data analysis, and insight delivery to support decision-making. |
+| **Scope**             | Narrower — focused on answering specific questions about past or current data.                         | Broader — covers full data lifecycle: acquisition → processing → analysis → reporting → automation.                                   |
+| **Primary Goal**      | Understand patterns and derive insights.                                                               | Enable actionable, repeatable decision-making based on data.                                                                          |
+| **Methods Used**      | Exploratory analysis, descriptive and diagnostic analytics.                                            | All analytics methods: descriptive, diagnostic, predictive, prescriptive.                                                             |
+| **Tools Focus**       | Excel, SQL, visualisations, basic statistics.                                                          | BI tools (Power BI, Tableau), data pipelines (dbt), cloud platforms, automation, machine learning (sometimes).                        |
+| **Deliverables**      | Reports, dashboards, insights, recommendations.                                                        | Data products, scalable reporting systems, automated workflows.                                                                       |
+| **Role Example**      | Data Analyst                                                                                           | Analytics Engineer, BI Analyst, Data Analyst, Data Scientist (partly).                                                                |
 
-Data Analytics is a field — encompassing the entire strategy and processes that make insights possible.
+Summarily, **`Data Analysis`** is a `task` — extracting insights from data. **`Data Analytics`** is a field — encompassing the processes that make insights possible.
 
-**`Data Mining vs Data Profiling:`**
+#### `Data Mining vs Data Profiling:`
 
 | Aspect            | **Data Mining**                                                     | **Data Profiling**                                              |
 | ----------------- | ------------------------------------------------------------------- | --------------------------------------------------------------- |
