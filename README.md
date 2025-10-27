@@ -107,6 +107,12 @@ An unsupervised machine learning technique, `K-Means Clustering`, groups custome
 
 **`Data Mining vs Data Profiling:`**
 
+Data Analysis is a task — extracting insights from data.
+
+Data Analytics is a field — encompassing the entire strategy and processes that make insights possible.
+
+**`Data Mining vs Data Profiling:`**
+
 | Aspect            | **Data Mining**                                                     | **Data Profiling**                                              |
 | ----------------- | ------------------------------------------------------------------- | --------------------------------------------------------------- |
 | **Purpose**       | Extract hidden patterns, correlations, and insights from data       | Understand data quality, structure, and anomalies               |
