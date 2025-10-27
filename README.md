@@ -24,7 +24,7 @@ extract insights.
       > `Example:` Data reveals customers who buy face cleansers often buy serums within a week, suggesting a personalised follow-up email can boost revenue.
 
 ## 2. Data Sources
-- Databases, spreadsheets, APIs, streaming data
+- Databases, spreadsheets, APIs, streaming data, SaaS applications (Salesforce, HubSpot, Shopify, etc.)
 - Structured, Semi-structured, Unstructured data
 - Data formats: CSV, JSON, Parquet
 - Keys & relationships:
@@ -33,12 +33,23 @@ extract insights.
   - 1–1, 1–Many, Many–Many
 
 ## 3. Data Preparation (Cleaning & Transformation)
-- Handling missing values
-- Handling duplicates
-- Data types & conversions
-- Outlier basics
+- Duplicates
+- Missing Values
+- Data Types
+- Data Formats
+- Invalid Data
+- Irrelevant Data
+- Special Characters
+- Outliers
 - Normalization vs Standardization
-- Text cleanup (trim spaces, case formatting, remove symbols)
+| Feature      | **Normalization**                      | **Standardization**     |
+| ------------ | -------------------------------------- | ----------------------- |
+| Purpose      | Scale to a fixed range                 | Scale to mean 0, std 1  |
+| Formula      | (x − min) / (max − min)                | (x − μ) / σ             |
+| Output Range | Usually 0–1                            | No fixed range          |
+| Distribution | Preserved                              | Centered & rescaled     |
+| Outliers     | Highly sensitive                       | Moderately sensitive    |
+| Best For     | Distance-based & neural network models | Linear models, PCA, SVM |
 
 ## 4. Exploratory Data Analysis (EDA)
 - Descriptive statistics (mean, median, mode, std, percentiles)
