@@ -6,10 +6,11 @@ extract insights.
 - **Data lifecycle**: Use case > Data collection > Storage > Processing > Analysis > Visualization > Communication
 - **Types of analytics**:
 
-  - `Descriptive Analysis` – What happened?
+  - `Descriptive Analysis:` What happened?
 > `Example:` A skincare brand sees 15,000 people clicked their Instagram ad last week, but only 500 purchased.
-  - Diagnostic Analysis – Why did it happen?
-`Example:` Analysis shows that shipping costs made many customers abandon their carts at checkout.
+  
+  - `Diagnostic Analysis` – Why did it happen?
+> `Example:` Analysis shows that shipping costs made many customers abandon their carts at checkout.
   - Predictive Analysis – What will likely happen?
 `Example:` If nothing changes, the model forecasts cart drop-offs will keep increasing as shipping prices rise.
   - Prescriptive Analysis – What should we do?
