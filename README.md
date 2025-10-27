@@ -86,6 +86,11 @@ A large centralized repository of data used for reporting and analysis, combinin
 Collects, processes, and analyzes data to identify trends, patterns and make informed decisions.
 
 **`Handling Large Datasets:`**
+Requires the use of efficient data storage and processing tecniques such as;
+- SQL databases
+- Parallel computing: running multiple computations at the same time across multiple cores or processors, rather than sequentially on a single one.
+- Cloud-based solutions
+- Code optimization (performance tuning)
 
 **`Latest Trends and Developemts Updates:`**
 
