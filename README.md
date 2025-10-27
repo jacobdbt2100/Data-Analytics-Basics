@@ -9,19 +9,19 @@ extract insights.
 - **Types of analytics**:
 
   - `Descriptive Analysis:` What happened?
-    > `Example:` A skincare brand sees 15,000 people clicked their Instagram ad last week, but only 500 purchased.
+      > `Example:` A skincare brand sees 15,000 people clicked their Instagram ad last week, but only 500 purchased.
   
   - `Diagnostic Analysis:` Why did it happen?
-> `Example:` Analysis shows that shipping costs made many customers abandon their carts at checkout.
+      > `Example:` Analysis shows that shipping costs made many customers abandon their carts at checkout.
 
   - `Predictive Analysis:` What will likely happen?
-> `Example:` If nothing changes, the model forecasts cart drop-offs will keep increasing as shipping prices rise.
+      > `Example:` If nothing changes, the model forecasts cart drop-offs will keep increasing as shipping prices rise.
 
   - `Prescriptive Analysis:` What should we do?
-> `Example:` The system recommends offering free shipping above $40 to increase checkout conversions.
+      > `Example:` The system recommends offering free shipping above $40 to increase checkout conversions.
 
   - `Exploratory Analysis:` What hidden opportunities exist?
-> `Example:` Data reveals customers who buy face cleansers often buy serums within a week, suggesting a personalised follow-up email can boost revenue.
+      > `Example:` Data reveals customers who buy face cleansers often buy serums within a week, suggesting a personalised follow-up email can boost revenue.
 
 ## 2. Data Sources
 - Databases, spreadsheets, APIs, streaming data
