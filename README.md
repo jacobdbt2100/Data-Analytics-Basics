@@ -40,23 +40,18 @@ extract insights.
 - Invalid Data
 - Irrelevant Data
 - Special Characters
-- Outliers
-- Normalization vs Standardization
-
-| Feature      | **Normalization**                      | **Standardization**     |
-| ------------ | -------------------------------------- | ----------------------- |
-| Purpose      | Scale to a fixed range                 | Scale to mean 0, std 1  |
-| Formula      | (x − min) / (max − min)                | (x − μ) / σ             |
-| Output Range | Usually 0–1                            | No fixed range          |
-| Distribution | Preserved                              | Centered & rescaled     |
-| Outliers     | Highly sensitive                       | Moderately sensitive    |
-| Best For     | Distance-based & neural network models | Linear models, PCA, SVM |
+- Outliers (statistical analysis)
+- Normalization vs Standardization (model building)
 
 ## 4. Exploratory Data Analysis (EDA)
 - Descriptive statistics (mean, median, mode, std, percentiles)
 - Distributions & variability
 - Correlations
 - Segmentation
+  - Demographic (age, gender, income level, education, occupation, marital status)
+  - Geographic (country, state, city, climate zones, urban vs rural, population density)
+- Market basket analysis
+- Cohort analysis
 
 ## 5. Business Understanding & Metrics
 - KPIs
