@@ -1,4 +1,4 @@
-# Data Analytics Basics 📊
+# Data Analytics Overview 📊
 
 ## 1. Foundations of Data Analysis
 - **Data Analysis Definition**: Data analysis is a process of modelling, analyzing, and interpreting data to
