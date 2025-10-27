@@ -74,3 +74,6 @@ extract insights.
 | **Output**        | Trends, predictive models, actionable insights                      | Data quality metrics, metadata summaries                        |
 | **Project Stage** | Typically after data preparation                                    | Early phase of data pipeline (before cleansing/transformation)  |
 | **Key Benefit**   | Drives strategic and operational decisions                          | Reduces errors and improves reliability of downstream analytics |
+
+> - Data Normalization: the process of structuring data to reduce redundancy and improve integrity—typically by organizing it into related tables and enforcing rules (normal forms) so that each data point is stored once and updated consistently.
+
