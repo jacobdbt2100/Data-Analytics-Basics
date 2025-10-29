@@ -4,7 +4,7 @@
 - **Definition**: Data analysis is a process of modelling, analyzing, and interpreting data to
 extract insights.
 - **Data roles**: Data Analyst, BI Analyst, Analytics Engineer, Data Engineer, Data Scientist, Machine Learning Engineer, etc. A `Data Analyst` collects, processes, and analyzes data to identify trends, patterns and make informed decisions.
-  
+
 - **Data lifecycle**: Use case > Data collection > Storage > Processing > Analysis > Visualization > Communication
 - **Types of analytics**:
 
