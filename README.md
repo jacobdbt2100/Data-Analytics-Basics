@@ -103,7 +103,7 @@ An unsupervised machine learning technique, `K-Means Clustering`, groups custome
 - Version control basics (git)
 - Communicating assumptions, limitations, and data decisions
 
-### Miscellaneous
+### MISCELLANEOUS
 
 #### `Data Analysis vs Data Analytics:`
 
